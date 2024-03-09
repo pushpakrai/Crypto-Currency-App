@@ -3,8 +3,6 @@
 
 # Cryptocurrencies React App
 
-![Cryptocurrency Logo](https://th.bing.com/th/id/OIP.cDFFK4v6sEdyQSg2kAQxcAHaFj?w=200&h=200&rs=1&pid=ImgDetMain)
-
 A beautiful React.js app to explore and track cryptocurrencies. Built with TypeScript and Sass to ensure type safety and stylish design.
 
 ## Table of Contents
@@ -25,7 +23,7 @@ A beautiful React.js app to explore and track cryptocurrencies. Built with TypeS
 
 ## Demo
 
-![App Demo](https://th.bing.com/th/id/OIP.cDFFK4v6sEdyQSg2kAQxcAHaFj?w=800&h=600&rs=1&pid=ImgDetMain)
+![Cryptocurrency Logo](https://th.bing.com/th/id/OIP.cDFFK4v6sEdyQSg2kAQxcAHaFj?w=200&h=200&rs=1&pid=ImgDetMain)
 
 Check out the live demo [here](link_to_your_live_demo).
 
