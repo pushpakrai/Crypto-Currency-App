@@ -1,5 +1,4 @@
 
-<a href="https://react-crypto-app-lyart.vercel.app/" target="_blank">Website Demo</a>
 
 # Cryptocurrencies React App
 
@@ -25,7 +24,7 @@ A beautiful React.js app to explore and track cryptocurrencies. Built with TypeS
 
 ![Cryptocurrency Logo](https://th.bing.com/th/id/OIP.cDFFK4v6sEdyQSg2kAQxcAHaFj?w=200&h=200&rs=1&pid=ImgDetMain)
 
-Check out the live demo [here](link_to_your_live_demo).
+Check out the live demo [here](https://react-crypto-app-lyart.vercel.app/).
 
 ## Installation
 
